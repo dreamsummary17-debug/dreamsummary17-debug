@@ -1,4 +1,4 @@
-# <p align="center">⚡ <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&color=F7B801&center=true&vCenter=true&width=600&lines=Master+Git+%26+GitHub+🚀;Level+Up+Your+Coding+Skills+🔥;Push+Code+Like+a+Pro+💻" /> ⚡</p>
+# <p align="center">⚡ <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&color=F7B801&center=true&vCenter=true&width=600&lines=Master+Git+%26+GitHub+🚀;Level+Up+Your+Coding+Skills+🔥💻" /> ⚡</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
